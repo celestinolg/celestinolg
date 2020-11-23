@@ -18,13 +18,16 @@
 <a target="_blank" href="http://celestinolg.com">
   <img align="left" alt="Site" width="22px" src="https://cdn.iconscout.com/icon/premium/png-64-thumb/web-globe-earth-site-38506.png" />
 </a>
-</br>
+<br />
 
 ---- 
 
 Hi, I'm Celestino Langa, but you can call me **Celestino** or **Langa**.
 
 I'm a Fullstack Developer, Computer Science student and I am passionate about cybersecurity.
+
+<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
 
 ----
 
@@ -44,5 +47,10 @@ I'm a Fullstack Developer, Computer Science student and I am passionate about cy
 
 
 ----
-   
-![ GitHub Stats](https://github-readme-stats.vercel.app/api?username=celestinolg&show_icons=true)
+
+📈 My GitHub Stats 
+<br />
+<img src="https://github-readme-stats.vercel.app/api?username=celestinolg&show_icons=true&theme=gotham" alt="celestinolg" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=celestinolg&show_icons=true&theme=gotham" alt="celestinolg" />
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=celestinolg)
