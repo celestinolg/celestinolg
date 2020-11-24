@@ -53,4 +53,4 @@ I'm a Fullstack Developer, Computer Science student and I am passionate about cy
 <img src="https://github-readme-stats.vercel.app/api?username=celestinolg&show_icons=true&theme=gotham" alt="celestinolg" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=celestinolg&show_icons=true&theme=gotham" alt="celestinolg" />
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=celestinolg)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=celestinolg.celestinolg)
